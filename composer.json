@@ -1,0 +1,22 @@
+{
+    "name": "jankx/animated-icons",
+    "description": "The icon with animation for Jankx Theme Framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jankx\\AnimatedIcons\\": "src/"
+        },
+        "files": [
+            "./animated-icons.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
